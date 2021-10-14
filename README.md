@@ -110,3 +110,7 @@
     </body>
     </body>
   </html>
+''
+---
+(lampomittari kaaviokuva.png)
+---
