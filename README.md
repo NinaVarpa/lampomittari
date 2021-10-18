@@ -111,6 +111,8 @@
     </body>
   </html>
 ''
+||
 ---
-! [Kaavio] (main/lampomittarin kaaviokuvat.jpg)
+! [Kaavio] (main/lampomittarin%20kaaviokuvat.jpg)
 ---
+||
