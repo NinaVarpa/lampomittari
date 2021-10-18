@@ -111,6 +111,6 @@
     </body>
   </html>
 '''
-||
+
 ![Kaavio](lampomittarinkaaviokuvat.jpg)
-||
+
