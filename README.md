@@ -112,5 +112,5 @@
   </html>
 ''
 ---
-! [Kaavio] (lampomittarin kaaviokuvat.jpg)
+! [Kaavio] (https://github.com/NinaVarpa/lampomittari/blob/main/lampomittarin%20kaaviokuvat.jpg)
 ---
