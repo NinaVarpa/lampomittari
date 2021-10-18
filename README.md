@@ -112,5 +112,5 @@
   </html>
 ''
 ---
-(lampomittari kaaviokuva.png)
+! [Kaavio] (lampomittarin kaaviokuvat.jpg)
 ---
