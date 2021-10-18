@@ -1,6 +1,6 @@
 # lampomittari
 ---
-''
+'''
 <html>
     <head>
       <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
@@ -110,9 +110,9 @@
     </body>
     </body>
   </html>
-''
+'''
 ||
 
-! [Kaavio] (main/lampomittarin%20kaaviokuvat.jpg)
+![Kaavio] (main/lampomittarin%20kaaviokuvat.jpg)
 
 ||
