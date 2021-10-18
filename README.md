@@ -113,6 +113,6 @@
 '''
 ||
 
-![Kaavio] (lampomittarin kaaviokuvat.jpg)
+![Kaavio](lampomittarin kaaviokuvat.jpg)
 
 ||
