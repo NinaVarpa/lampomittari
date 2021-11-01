@@ -113,5 +113,6 @@
 '''
 
 ![Kaavio](lampomittarinkaaviokuvat.jpg)
+-----
 ![Mariadb](mariadb.jpg)
 
