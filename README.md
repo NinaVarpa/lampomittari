@@ -115,4 +115,7 @@
 ![Kaavio](lampomittarinkaaviokuvat.jpg)
 -----
 ![Mariadb](mariadb.jpg)
+-----
+![Koodi](koodimariadb.jpg)
+------
 
