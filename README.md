@@ -113,4 +113,5 @@
 '''
 
 ![Kaavio](lampomittarinkaaviokuvat.jpg)
+![Mariadb](Mariadb kaavio - Kopio.pptx)
 
