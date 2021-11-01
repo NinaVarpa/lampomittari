@@ -115,4 +115,22 @@
 ![Kaavio](lampomittarinkaaviokuvat.jpg)
 -----
 ![Mariadb](mariadb.jpg)
+'''
+import time
+From datetime import datetime
+import mariadb
+
+arvo= 2
+conn = mariadb.connect(user="root", password="HyTe", host="localhost",database="Tiedot")
+cur= conn.cursor()
+
+while True:
+    time.sleep(5)
+    print(f'Python toimii:{datetime.now()}')
+    cur.execute(f"INSERT INTO Mittari (arvo, pvm) VALUES ('{arvo}','{datetime.now()}')")
+    arvo+= 2
+    conn.commit()
+    
+conn.close()
+'''
 
